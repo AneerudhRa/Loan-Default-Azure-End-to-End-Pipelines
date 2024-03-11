@@ -15,11 +15,11 @@ This loan risk analysis pipeline embarks on its journey by connecting with an on
 ## Key Technologies Used🛠️
 
 - **Sql Server Management Studio**: Houses the raw data and used as On-prem resource here.
-- **Azure Data Factory**: Automates data ingestion from on-premises to cloud.
+- **Azure Data Factory**: Automates data ingestion from on-premises to cloud. (Exhibit A - Please refer below)
 - **Azure Data Lake Storage Gen2**: Hosts raw and processed data in a highly scalable data lake.
-- **Azure Databricks**: Utilizes Python for robust data cleaning and transformation.
-- **Azure Synapse Analytics**: Employs SQL for data modeling and further transformations.
-- **Power BI**: Visualizes the processed data to uncover insights into loan default risks.
+- **Azure Databricks**: Utilizes Python for robust data cleaning and transformation. (Exhibit B)
+- **Azure Synapse Analytics**: Employs SQL for data modeling and further transformations. (Exhibit C)
+- **Power BI**: Visualizes the processed data to uncover insights into loan default risks. (Exhibit D)
 
 ## Deployment Quickstart 🚀
 
@@ -30,7 +30,11 @@ This loan risk analysis pipeline embarks on its journey by connecting with an on
 5. **Data Querrying - Transformation**: Further transformations or SQL querries (SQLQuery_Synapse.sql) can be written for analysing and creating views.
 6. **Visualize in Power BI**: Connect Power BI to Azure Synapse Analytics to explore and share insights on loan default risks.
 
+## Exhibits
 
+1. Exhibit A
+
+![](https://drive.google.com/file/d/1rb11tNqgvF_HZSFHplptqIBmMc5RtyRc)
 
 ---
 
