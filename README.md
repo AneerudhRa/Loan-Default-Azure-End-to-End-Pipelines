@@ -34,7 +34,7 @@ This loan risk analysis pipeline embarks on its journey by connecting with an on
 
 1. Exhibit A
 
-![](https://drive.google.com/file/d/1rb11tNqgvF_HZSFHplptqIBmMc5RtyRc)
+![adf](https://drive.google.com/file/d/1rb11tNqgvF_HZSFHplptqIBmMc5RtyRc/view?usp=sharing)
 
 ---
 
